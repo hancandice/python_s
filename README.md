@@ -1,1 +1,1 @@
-Crawling hiring information for python developer from Stackoverflow.com and Indeed.com
+Scraping des informations de recrutement pour les développeurs Python de Stackoverflow.com et Indeed.com
